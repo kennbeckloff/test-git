@@ -1,6 +1,6 @@
 #   QUIZ BOARD
 
- ## By Kenn Beckloff
+ ## By Kenn Beckloff  Pinoh Aoll
 
 
 ## Screenshot
